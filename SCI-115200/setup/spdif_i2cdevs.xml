@@ -1,0 +1,10 @@
+<entry-i2cdevs>
+    <id>117</id>
+    <filename>i2cdevs.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>26</minor>
+        <revision>3</revision>
+    </version>
+    <data/>
+</entry-i2cdevs>

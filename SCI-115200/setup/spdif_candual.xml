@@ -1,0 +1,12 @@
+<entry-can-dual>
+    <id>47</id>
+    <filename>candual.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>26</minor>
+        <revision>3</revision>
+    </version>
+    <data>
+        <dual>0</dual>
+    </data>
+</entry-can-dual>

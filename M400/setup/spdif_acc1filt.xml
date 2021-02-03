@@ -1,0 +1,13 @@
+<entry-acc1filt>
+    <id>107</id>
+    <filename>acc1filt.bin</filename>
+    <version>
+        <major>6</major>
+        <minor>2</minor>
+        <revision>43</revision>
+    </version>
+    <data>
+        <enable>1</enable>
+        <cutoff_freq>16.0</cutoff_freq>
+    </data>
+</entry-acc1filt>

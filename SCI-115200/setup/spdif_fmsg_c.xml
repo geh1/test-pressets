@@ -1,0 +1,20 @@
+<entry-fmsg-c>
+    <id>75</id>
+    <filename>fmsg_c.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>26</minor>
+        <revision>3</revision>
+    </version>
+    <data>
+        <fmsg1>
+            <str-tunarray-element>
+                <fmsg-id>0</fmsg-id>
+                <time>1.0</time>
+                <type>0</type>
+            </str-tunarray-element>
+        </fmsg1>
+        <fmsg2/>
+        <fmsg3/>
+    </data>
+</entry-fmsg-c>

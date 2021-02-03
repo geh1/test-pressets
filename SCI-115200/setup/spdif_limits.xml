@@ -1,0 +1,53 @@
+<entry-limits>
+    <id>88</id>
+    <filename>limits.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>26</minor>
+        <revision>3</revision>
+    </version>
+    <data>
+        <str-tunarray-element str-tunarray-key="0">
+            <data>
+                <variable>905</variable>
+                <type>0</type>
+                <value>0.7</value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="1">
+            <data>
+                <variable>905</variable>
+                <type>1</type>
+                <value>0.25</value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="2">
+            <data>
+                <variable>400</variable>
+                <type>1</type>
+                <value>21.0</value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="14">
+            <data>
+                <variable>504</variable>
+                <type>0</type>
+                <value>120.0</value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="15">
+            <data>
+                <variable>2</variable>
+                <type>0</type>
+                <value>17.0</value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="16">
+            <data>
+                <variable>504</variable>
+                <type>1</type>
+                <value>10.0</value>
+            </data>
+        </str-tunarray-element>
+    </data>
+</entry-limits>
