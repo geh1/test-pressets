@@ -1,0 +1,10 @@
+<entry-vmgr>
+    <id>80</id>
+    <filename>vmgr.bin</filename>
+    <version>
+        <major>6</major>
+        <minor>4</minor>
+        <revision>11</revision>
+    </version>
+    <data/>
+</entry-vmgr>
